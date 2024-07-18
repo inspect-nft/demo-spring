@@ -48,7 +48,7 @@ You could use additional request json objects based on your need for this task:
 ```
 
 ### Task Requirement:
-Library user must be Authenticated and REST API functions could be authorized.
+Library user must be Authenticated (Basic authentication is sufficient) and REST API functions could be authorized.
 The `REST` service must expose two types of endpoints for managing `Author` and `Book` resources, following base URI `http://localhost:<port>/api/v2/<path>` endpoint, which allows for managing the data records in the following way:
 
 #### Author API:
