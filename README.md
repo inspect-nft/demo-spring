@@ -1,6 +1,6 @@
 ## Library Management API Task Guidance
 
-In ``ABC`` library, a librarian should first access the library system, and 
+In ``ABC`` library, a librarian should first access/authenticate the library system, and 
 then he could manage authors and books in the library, where a normal user can not access these.
 Please consider that a book can be written by multiple authors, and one author could
 write multiple books.
@@ -48,6 +48,7 @@ You could use additional request json objects based on your need for this task:
 ```
 
 ### Task Requirement:
+Library user must be Authenticated and REST API functions could be authorized.
 The `REST` service must expose two types of endpoints for managing `Author` and `Book` resources, following base URI `http://localhost:<port>/api/v2/<path>` endpoint, which allows for managing the data records in the following way:
 
 #### Author API:
@@ -107,7 +108,7 @@ The `REST` service must expose two types of endpoints for managing `Author` and 
 * As a librarian he should be able to search functionality by book title, author, or ISBN
 * Please note the `title` and `author`name can be match partially
 
-Your task is to complete the given project so that it passes all the test cases when running the provided unit tests. 
+Your task is to complete the given project. More over you could write unit tests. 
 The project by default supports the use of the H2 database.
 The library does not require no fancy UI. In fact, you could test API functionality by using `Postman` or `CURL` or `unit tests` or any other `http request sender`.
 ## Commands
@@ -129,11 +130,12 @@ mvn clean test
 ```
 
 Also you could check for any db query, you could use H2 console by accessing below. 
-![](/Users/madhawag/Desktop/Screenshot 2024-07-18 at 3.26.37 AM.png)
+![](src/main/resources/static/h2db.png)
 
 
 **Key Responsibilities:**
 
+- Authenticate/authorize Librarian for accessing library system
 - Develop and implement the Book and Author APIs using Spring Boot.
 - Ensure secure and efficient database connectivity and interactions.
 - Create a well-structured backend architecture with proper entity relationships.
