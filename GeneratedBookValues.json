@@ -1,0 +1,2002 @@
+[
+{
+  "id" : 50,
+  "isbn" : "0722580126",
+  "title" : "This Side of Paradise",
+  "publisher" : "Butterworth-Heinemann",
+  "publishDate" : "1973-09-12",
+  "authors" : [ {
+    "id" : 6163503,
+    "name" : "Delilah Crona",
+    "country" : "Faroe Islands",
+    "dateBirth" : [ 2006, 1, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 10793213,
+    "name" : "Owen Schamberger",
+    "country" : "Luxembourg",
+    "dateBirth" : [ 1983, 10, 28 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 56261130,
+  "isbn" : "1610191544",
+  "title" : "Frequent Hearses",
+  "publisher" : "J. M. Dent",
+  "publishDate" : "1961-03-12",
+  "authors" : [ {
+    "id" : 73,
+    "name" : "Calista Orn PhD",
+    "country" : "Rwanda",
+    "dateBirth" : [ 1960, 1, 18 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 20282,
+    "name" : "Adelina Rath",
+    "country" : "Syrian Arab Republic",
+    "dateBirth" : [ 1987, 12, 28 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 3279950,
+  "isbn" : "1836163568",
+  "title" : "An Evil Cradling",
+  "publisher" : "HarperTrophy",
+  "publishDate" : "1965-10-08",
+  "authors" : [ {
+    "id" : 88842767,
+    "name" : "Michell Bailey III",
+    "country" : "Vietnam",
+    "dateBirth" : [ 1962, 7, 10 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 2,
+    "name" : "Dianne Daniel",
+    "country" : "Brazil",
+    "dateBirth" : [ 1995, 9, 17 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 5067,
+  "isbn" : "0053531876",
+  "title" : "Blood's a Rover",
+  "publisher" : "Kensington Books",
+  "publishDate" : "1967-05-18",
+  "authors" : [ {
+    "id" : 13,
+    "name" : "Aubrey Goodwin",
+    "country" : "Dominican Republic",
+    "dateBirth" : [ 2004, 1, 2 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 707185557,
+    "name" : "Kathie Lockman",
+    "country" : "Papua New Guinea",
+    "dateBirth" : [ 1965, 8, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 707,
+  "isbn" : "1980709408",
+  "title" : "The Lathe of Heaven",
+  "publisher" : "Ian Allan Publishing",
+  "publishDate" : "1997-01-08",
+  "authors" : [ {
+    "id" : 94663,
+    "name" : "Jerald Lynch",
+    "country" : "Philippines",
+    "dateBirth" : [ 1975, 7, 22 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 52641349,
+    "name" : "Erasmo Mohr",
+    "country" : "Hungary",
+    "dateBirth" : [ 1992, 8, 21 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 98167,
+  "isbn" : "090568060X",
+  "title" : "An Instant In The Wind",
+  "publisher" : "Darakwon Press",
+  "publishDate" : "1987-07-14",
+  "authors" : [ {
+    "id" : 80428180,
+    "name" : "Josphine Casper",
+    "country" : "Gabon",
+    "dateBirth" : [ 2002, 6, 25 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 7,
+    "name" : "Miss Brooke Stracke",
+    "country" : "Sri Lanka",
+    "dateBirth" : [ 1976, 12, 4 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 605655,
+  "isbn" : "1795278056",
+  "title" : "Noli Me Tangere",
+  "publisher" : "Medknow Publications",
+  "publishDate" : "1988-05-08",
+  "authors" : [ {
+    "id" : 594466311,
+    "name" : "Martin Hudson IV",
+    "country" : "United States of America",
+    "dateBirth" : [ 1988, 1, 14 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 68077837,
+    "name" : "Barrie McLaughlin",
+    "country" : "Guadeloupe",
+    "dateBirth" : [ 1966, 7, 8 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2959233,
+  "isbn" : "185837085X",
+  "title" : "For Whom the Bell Tolls",
+  "publisher" : "Ace Books",
+  "publishDate" : "1987-07-28",
+  "authors" : [ {
+    "id" : 73701,
+    "name" : "Carroll Gleason I",
+    "country" : "Congo",
+    "dateBirth" : [ 1970, 1, 1 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 581,
+    "name" : "Sydney Kiehn",
+    "country" : "Ukraine",
+    "dateBirth" : [ 1978, 11, 23 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 38637,
+  "isbn" : "0737859482",
+  "title" : "Ring of Bright Water",
+  "publisher" : "Chronicle Books",
+  "publishDate" : "1978-03-12",
+  "authors" : [ {
+    "id" : 1,
+    "name" : "Archie Frami",
+    "country" : "Cote d'Ivoire",
+    "dateBirth" : [ 1966, 1, 13 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 459573,
+    "name" : "Meghan Mills",
+    "country" : "Equatorial Guinea",
+    "dateBirth" : [ 1989, 9, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 471,
+  "isbn" : "1933000406",
+  "title" : "Stranger in a Strange Land",
+  "publisher" : "Felony & Mayhem Press",
+  "publishDate" : "1964-10-11",
+  "authors" : [ {
+    "id" : 5194,
+    "name" : "Shelby Bradtke",
+    "country" : "Cambodia",
+    "dateBirth" : [ 1998, 4, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 39,
+    "name" : "Ling Kassulke",
+    "country" : "Lao People's Democratic Republic",
+    "dateBirth" : [ 2002, 11, 14 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 538,
+  "isbn" : "0809802805",
+  "title" : "Things Fall Apart",
+  "publisher" : "University of Michigan Press",
+  "publishDate" : "1977-04-02",
+  "authors" : [ {
+    "id" : 5640,
+    "name" : "Sid Reichert",
+    "country" : "Marshall Islands",
+    "dateBirth" : [ 1987, 7, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 7591094,
+    "name" : "Bea Hartmann",
+    "country" : "Mayotte",
+    "dateBirth" : [ 1973, 10, 31 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 1922,
+  "isbn" : "0959163867",
+  "title" : "Bury My Heart at Wounded Knee",
+  "publisher" : "Hachette Book Group USA",
+  "publishDate" : "1976-02-05",
+  "authors" : [ {
+    "id" : 259741609,
+    "name" : "Joanie Quitzon",
+    "country" : "Vanuatu",
+    "dateBirth" : [ 1974, 4, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 1,
+    "name" : "Buddy Gorczany",
+    "country" : "Comoros",
+    "dateBirth" : [ 1966, 11, 22 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2510,
+  "isbn" : "1428722726",
+  "title" : "Number the Stars",
+  "publisher" : "Ignatius Press",
+  "publishDate" : "1983-05-23",
+  "authors" : [ {
+    "id" : 662555374,
+    "name" : "Ms. Juliet Sauer",
+    "country" : "Turkey",
+    "dateBirth" : [ 1983, 4, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 810,
+    "name" : "Eryn Hermiston",
+    "country" : "Sri Lanka",
+    "dateBirth" : [ 1959, 12, 29 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 823160,
+  "isbn" : "0938380273",
+  "title" : "Paths of Glory",
+  "publisher" : "Pan Books",
+  "publishDate" : "1992-10-14",
+  "authors" : [ {
+    "id" : 791457,
+    "name" : "Mariel Abernathy",
+    "country" : "Jamaica",
+    "dateBirth" : [ 2001, 6, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 5437979,
+    "name" : "Ms. Dario Hilpert",
+    "country" : "Kuwait",
+    "dateBirth" : [ 1991, 4, 17 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 1034581,
+  "isbn" : "1857254694",
+  "title" : "Fair Stood the Wind for France",
+  "publisher" : "Mainstream Publishing",
+  "publishDate" : "1982-10-24",
+  "authors" : [ {
+    "id" : 493,
+    "name" : "Dr. Apolonia Kilback",
+    "country" : "Monaco",
+    "dateBirth" : [ 1990, 3, 30 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6,
+    "name" : "Rodrigo Romaguera",
+    "country" : "Tuvalu",
+    "dateBirth" : [ 1992, 6, 4 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 196283,
+  "isbn" : "1989343627",
+  "title" : "Blithe Spirit",
+  "publisher" : "Hachette Book Group USA",
+  "publishDate" : "2004-11-01",
+  "authors" : [ {
+    "id" : 175328,
+    "name" : "Dr. Barbar Grant",
+    "country" : "Saint Kitts and Nevis",
+    "dateBirth" : [ 1984, 6, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 84779303,
+    "name" : "Annmarie Armstrong",
+    "country" : "Saint Helena",
+    "dateBirth" : [ 1984, 11, 25 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 3605059,
+  "isbn" : "0839064373",
+  "title" : "I Sing the Body Electric",
+  "publisher" : "Pavilion Books",
+  "publishDate" : "1981-02-16",
+  "authors" : [ {
+    "id" : 7,
+    "name" : "Shawana Mertz",
+    "country" : "Bosnia and Herzegovina",
+    "dateBirth" : [ 1989, 8, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 7,
+    "name" : "Faviola Ebert",
+    "country" : "Tokelau",
+    "dateBirth" : [ 1977, 7, 23 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 822657,
+  "isbn" : "0925099538",
+  "title" : "Jesting Pilate",
+  "publisher" : "New Village Press",
+  "publishDate" : "1987-07-15",
+  "authors" : [ {
+    "id" : 82769779,
+    "name" : "Shaina Homenick IV",
+    "country" : "Jamaica",
+    "dateBirth" : [ 1965, 7, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6511,
+    "name" : "Austin Dicki",
+    "country" : "Guinea-Bissau",
+    "dateBirth" : [ 1981, 11, 1 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 39012227,
+  "isbn" : "0954695224",
+  "title" : "Nectar in a Sieve",
+  "publisher" : "Darakwon Press",
+  "publishDate" : "1994-08-30",
+  "authors" : [ {
+    "id" : 1,
+    "name" : "Miss Shawn Gulgowski",
+    "country" : "Vietnam",
+    "dateBirth" : [ 1969, 11, 21 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 30157,
+    "name" : "Catalina Quitzon",
+    "country" : "Luxembourg",
+    "dateBirth" : [ 1978, 2, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 31509065,
+  "isbn" : "1091645337",
+  "title" : "Arms and the Man",
+  "publisher" : "G. P. Putnam's Sons",
+  "publishDate" : "1968-06-05",
+  "authors" : [ {
+    "id" : 810343,
+    "name" : "Sebastian Feil",
+    "country" : "Montenegro",
+    "dateBirth" : [ 1987, 2, 10 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 8,
+    "name" : "Marlin Sawayn",
+    "country" : "Antigua and Barbuda",
+    "dateBirth" : [ 1985, 8, 25 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 6089292,
+  "isbn" : "1948403846",
+  "title" : "Tiger! Tiger!",
+  "publisher" : "Hodder Headline",
+  "publishDate" : "1996-12-10",
+  "authors" : [ {
+    "id" : 8,
+    "name" : "Ms. Abigail West",
+    "country" : "Afghanistan",
+    "dateBirth" : [ 1977, 7, 14 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 58,
+    "name" : "Walker Huel",
+    "country" : "Myanmar",
+    "dateBirth" : [ 1989, 6, 21 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 8852452,
+  "isbn" : "0882014056",
+  "title" : "The Last Temptation",
+  "publisher" : "Eel Pie Publishing",
+  "publishDate" : "1981-04-10",
+  "authors" : [ {
+    "id" : 43,
+    "name" : "Trista Dickinson",
+    "country" : "Isle of Man",
+    "dateBirth" : [ 1995, 9, 14 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 644746,
+    "name" : "Delorse Spinka",
+    "country" : "Greece",
+    "dateBirth" : [ 1984, 8, 30 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 8338996,
+  "isbn" : "1703202317",
+  "title" : "What's Become of Waring",
+  "publisher" : "Zed Books",
+  "publishDate" : "1960-11-10",
+  "authors" : [ {
+    "id" : 4,
+    "name" : "Milan Marquardt",
+    "country" : "Swaziland",
+    "dateBirth" : [ 1985, 7, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 2698455,
+    "name" : "Miss Roosevelt Bergstrom",
+    "country" : "Djibouti",
+    "dateBirth" : [ 1999, 2, 5 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 5513,
+  "isbn" : "0943470757",
+  "title" : "That Hideous Strength",
+  "publisher" : "Cambridge University Press",
+  "publishDate" : "1971-06-30",
+  "authors" : [ {
+    "id" : 24,
+    "name" : "Aaron Johns",
+    "country" : "Ghana",
+    "dateBirth" : [ 1966, 12, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 599078,
+    "name" : "Katrice Mertz",
+    "country" : "Papua New Guinea",
+    "dateBirth" : [ 1968, 11, 26 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 764780,
+  "isbn" : "009334743X",
+  "title" : "That Good Night",
+  "publisher" : "Unfinished Monument Press",
+  "publishDate" : "1995-03-06",
+  "authors" : [ {
+    "id" : 14042,
+    "name" : "Nilsa Willms",
+    "country" : "Ethiopia",
+    "dateBirth" : [ 1999, 8, 18 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 22,
+    "name" : "Miss Suzette Dickens",
+    "country" : "Hong Kong",
+    "dateBirth" : [ 2003, 9, 12 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 91228,
+  "isbn" : "0862843006",
+  "title" : "Where Angels Fear to Tread",
+  "publisher" : "Legend Books",
+  "publishDate" : "1990-07-31",
+  "authors" : [ {
+    "id" : 98,
+    "name" : "Logan Champlin",
+    "country" : "Greenland",
+    "dateBirth" : [ 1995, 11, 4 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 4985826,
+    "name" : "Dr. Walker Jones",
+    "country" : "Martinique",
+    "dateBirth" : [ 1978, 3, 29 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2486581,
+  "isbn" : "0489684637",
+  "title" : "Cover Her Face",
+  "publisher" : "Black Sparrow Books",
+  "publishDate" : "1963-06-18",
+  "authors" : [ {
+    "id" : 70,
+    "name" : "Dyan Sawayn",
+    "country" : "Fiji",
+    "dateBirth" : [ 2004, 8, 9 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 9455210,
+    "name" : "Tiara Gleason",
+    "country" : "Democratic People's Republic of Korea",
+    "dateBirth" : [ 1987, 3, 10 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2,
+  "isbn" : "0965159000",
+  "title" : "All Passion Spent",
+  "publisher" : "Schocken Books",
+  "publishDate" : "1961-10-11",
+  "authors" : [ {
+    "id" : 754129135,
+    "name" : "Britni Cassin II",
+    "country" : "Timor-Leste",
+    "dateBirth" : [ 2005, 9, 4 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6,
+    "name" : "Ms. Noble Anderson",
+    "country" : "El Salvador",
+    "dateBirth" : [ 1967, 5, 19 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 4,
+  "isbn" : "0914807021",
+  "title" : "Time To Murder And Create",
+  "publisher" : "Hodder Headline",
+  "publishDate" : "1981-03-16",
+  "authors" : [ {
+    "id" : 7,
+    "name" : "Phung Crona",
+    "country" : "Iraq",
+    "dateBirth" : [ 1988, 3, 15 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 1583,
+    "name" : "Gerald Daugherty",
+    "country" : "Solomon Islands",
+    "dateBirth" : [ 2005, 7, 29 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 22722067,
+  "isbn" : "0970254059",
+  "title" : "Nine Coaches Waiting",
+  "publisher" : "Felony & Mayhem Press",
+  "publishDate" : "2006-05-03",
+  "authors" : [ {
+    "id" : 63420667,
+    "name" : "Wilhemina Witting PhD",
+    "country" : "El Salvador",
+    "dateBirth" : [ 1964, 2, 28 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 9664598,
+    "name" : "Winfred Stanton",
+    "country" : "Niue",
+    "dateBirth" : [ 1995, 10, 14 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 714354828,
+  "isbn" : "0713765682",
+  "title" : "Now Sleeps the Crimson Petal",
+  "publisher" : "Left Book Club",
+  "publishDate" : "1996-06-23",
+  "authors" : [ {
+    "id" : 2572564,
+    "name" : "Calvin Prohaska Jr.",
+    "country" : "Mayotte",
+    "dateBirth" : [ 2002, 6, 14 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 683559838,
+    "name" : "Dr. Faustino Schmidt",
+    "country" : "British Indian Ocean Territory (Chagos Archipelago)",
+    "dateBirth" : [ 1965, 11, 18 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 950,
+  "isbn" : "0912704853",
+  "title" : "The Curious Incident of the Dog in the Night-Time",
+  "publisher" : "Casemate Publishers",
+  "publishDate" : "1970-05-04",
+  "authors" : [ {
+    "id" : 431,
+    "name" : "Miss Rory Heller",
+    "country" : "Myanmar",
+    "dateBirth" : [ 1980, 1, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 12,
+    "name" : "Cristal Reichel",
+    "country" : "Somalia",
+    "dateBirth" : [ 1968, 2, 14 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 67824312,
+  "isbn" : "1473222427",
+  "title" : "Arms and the Man",
+  "publisher" : "Black Library",
+  "publishDate" : "1989-09-21",
+  "authors" : [ {
+    "id" : 487709,
+    "name" : "Sherly Schaden V",
+    "country" : "United States of America",
+    "dateBirth" : [ 1972, 9, 25 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 530778,
+    "name" : "Colby Fritsch",
+    "country" : "Ethiopia",
+    "dateBirth" : [ 1974, 7, 8 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 9373,
+  "isbn" : "0009210733",
+  "title" : "The Man Within",
+  "publisher" : "Anvil Press Poetry",
+  "publishDate" : "2003-12-14",
+  "authors" : [ {
+    "id" : 16,
+    "name" : "Marnie Aufderhar DDS",
+    "country" : "Martinique",
+    "dateBirth" : [ 1961, 9, 9 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 391697562,
+    "name" : "Marcelino Mueller",
+    "country" : "Saint Barthelemy",
+    "dateBirth" : [ 1988, 5, 2 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 619269,
+  "isbn" : "131752408X",
+  "title" : "Precious Bane",
+  "publisher" : "Dalkey Archive Press",
+  "publishDate" : "1960-09-24",
+  "authors" : [ {
+    "id" : 45,
+    "name" : "Hobert Turner IV",
+    "country" : "India",
+    "dateBirth" : [ 1969, 5, 27 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 0,
+    "name" : "Raleigh Johns",
+    "country" : "Maldives",
+    "dateBirth" : [ 1982, 2, 21 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 31925231,
+  "isbn" : "059263678X",
+  "title" : "Infinite Jest",
+  "publisher" : "Carlton Books",
+  "publishDate" : "1971-12-27",
+  "authors" : [ {
+    "id" : 76,
+    "name" : "Jona Konopelski",
+    "country" : "Costa Rica",
+    "dateBirth" : [ 1991, 2, 27 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 3,
+    "name" : "Candie Hamill",
+    "country" : "Chad",
+    "dateBirth" : [ 1988, 6, 28 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 561461,
+  "isbn" : "023143006X",
+  "title" : "After Many a Summer Dies the Swan",
+  "publisher" : "Book Works",
+  "publishDate" : "1979-02-03",
+  "authors" : [ {
+    "id" : 22085,
+    "name" : "Emmett Terry",
+    "country" : "Burundi",
+    "dateBirth" : [ 2002, 12, 31 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 27089,
+    "name" : "Mr. Vernon Legros",
+    "country" : "Republic of Korea",
+    "dateBirth" : [ 1981, 11, 14 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 83704790,
+  "isbn" : "1968921990",
+  "title" : "Of Human Bondage",
+  "publisher" : "Velazquez Press",
+  "publishDate" : "1972-12-15",
+  "authors" : [ {
+    "id" : 8,
+    "name" : "Marlin Rowe",
+    "country" : "Poland",
+    "dateBirth" : [ 1991, 5, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 68,
+    "name" : "Long Kirlin",
+    "country" : "Bahamas",
+    "dateBirth" : [ 1967, 8, 8 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 68839,
+  "isbn" : "0661628310",
+  "title" : "An Acceptable Time",
+  "publisher" : "Open University Press",
+  "publishDate" : "1973-10-17",
+  "authors" : [ {
+    "id" : 191726931,
+    "name" : "Ria Nienow PhD",
+    "country" : "Panama",
+    "dateBirth" : [ 1984, 7, 20 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 938213474,
+    "name" : "Hassan Mayer",
+    "country" : "Ethiopia",
+    "dateBirth" : [ 1985, 8, 19 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 18,
+  "isbn" : "1095623184",
+  "title" : "The Moon by Night",
+  "publisher" : "Tate Publishing & Enterprises",
+  "publishDate" : "1965-03-14",
+  "authors" : [ {
+    "id" : 88819396,
+    "name" : "Mrs. Scotty Ernser",
+    "country" : "Turkey",
+    "dateBirth" : [ 1973, 11, 20 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 15,
+    "name" : "Lenard Bauch V",
+    "country" : "Venezuela",
+    "dateBirth" : [ 2005, 8, 21 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 82218311,
+  "isbn" : "0896920909",
+  "title" : "I Sing the Body Electric",
+  "publisher" : "Carlton Books",
+  "publishDate" : "1965-12-06",
+  "authors" : [ {
+    "id" : 48,
+    "name" : "Shanti Corkery",
+    "country" : "Guinea-Bissau",
+    "dateBirth" : [ 1959, 10, 20 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 756,
+    "name" : "Lynn Rogahn",
+    "country" : "Saint Pierre and Miquelon",
+    "dateBirth" : [ 1973, 5, 31 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 790730,
+  "isbn" : "0843509368",
+  "title" : "A Catskill Eagle",
+  "publisher" : "Matthias Media",
+  "publishDate" : "1966-03-29",
+  "authors" : [ {
+    "id" : 184,
+    "name" : "Margarito Mraz II",
+    "country" : "Saint Kitts and Nevis",
+    "dateBirth" : [ 1979, 10, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6198560,
+    "name" : "Carita Abshire",
+    "country" : "Czech Republic",
+    "dateBirth" : [ 1989, 2, 25 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 6802859,
+  "isbn" : "0898727235",
+  "title" : "Tiger! Tiger!",
+  "publisher" : "United States Government Publishing Office",
+  "publishDate" : "1989-07-17",
+  "authors" : [ {
+    "id" : 10,
+    "name" : "Ms. Omer Hodkiewicz",
+    "country" : "Cambodia",
+    "dateBirth" : [ 1996, 11, 21 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 890153166,
+    "name" : "Mari Kirlin",
+    "country" : "Guam",
+    "dateBirth" : [ 1986, 7, 13 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 334887538,
+  "isbn" : "139761630X",
+  "title" : "The Heart Is a Lonely Hunter",
+  "publisher" : "Fearless Books",
+  "publishDate" : "1966-10-31",
+  "authors" : [ {
+    "id" : 460,
+    "name" : "Lane Collins",
+    "country" : "Samoa",
+    "dateBirth" : [ 1969, 9, 16 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 70948015,
+    "name" : "Mrs. Courtney Jacobson",
+    "country" : "Sri Lanka",
+    "dateBirth" : [ 1997, 12, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 594,
+  "isbn" : "1949150097",
+  "title" : "A Scanner Darkly",
+  "publisher" : "Shoemaker & Hoard Publishers",
+  "publishDate" : "2003-01-26",
+  "authors" : [ {
+    "id" : 8614870,
+    "name" : "Valentine Moen PhD",
+    "country" : "Hong Kong",
+    "dateBirth" : [ 1998, 2, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 896764,
+    "name" : "Fatimah McDermott DVM",
+    "country" : "Cape Verde",
+    "dateBirth" : [ 2004, 6, 8 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 8757552,
+  "isbn" : "0897740394",
+  "title" : "The Monkey's Raincoat",
+  "publisher" : "Holland Park Press",
+  "publishDate" : "2004-05-01",
+  "authors" : [ {
+    "id" : 6128,
+    "name" : "Lavern Parisian",
+    "country" : "Paraguay",
+    "dateBirth" : [ 1969, 3, 2 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 87869,
+    "name" : "Barton Runte",
+    "country" : "Liechtenstein",
+    "dateBirth" : [ 1980, 2, 2 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 619252,
+  "isbn" : "1892507269",
+  "title" : "As I Lay Dying",
+  "publisher" : "Butterworth-Heinemann",
+  "publishDate" : "1976-06-02",
+  "authors" : [ {
+    "id" : 6760352,
+    "name" : "Kenneth Gleichner MD",
+    "country" : "Serbia",
+    "dateBirth" : [ 1965, 12, 21 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 807,
+    "name" : "Mrs. Dee Bogan",
+    "country" : "Sierra Leone",
+    "dateBirth" : [ 1965, 3, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 70644,
+  "isbn" : "0085631760",
+  "title" : "In a Dry Season",
+  "publisher" : "Atlantic Books",
+  "publishDate" : "1999-05-30",
+  "authors" : [ {
+    "id" : 9,
+    "name" : "Mickey Harber DVM",
+    "country" : "Ukraine",
+    "dateBirth" : [ 1970, 1, 1 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 54,
+    "name" : "Toshia Haley",
+    "country" : "Haiti",
+    "dateBirth" : [ 1982, 9, 24 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 0,
+  "isbn" : "0372161618",
+  "title" : "The Far-Distant Oxus",
+  "publisher" : "Signet Books",
+  "publishDate" : "1964-01-08",
+  "authors" : [ {
+    "id" : 55847451,
+    "name" : "Stephan Langosh",
+    "country" : "Chad",
+    "dateBirth" : [ 1991, 3, 3 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 328349822,
+    "name" : "Deloise Beer V",
+    "country" : "Macedonia",
+    "dateBirth" : [ 1995, 7, 31 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 36280992,
+  "isbn" : "0510144349",
+  "title" : "A Time to Kill",
+  "publisher" : "Leafwood Publishers",
+  "publishDate" : "1971-01-14",
+  "authors" : [ {
+    "id" : 19948,
+    "name" : "Isidro Dooley",
+    "country" : "Saint Lucia",
+    "dateBirth" : [ 1994, 7, 27 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 3,
+    "name" : "Moses Boyle",
+    "country" : "Croatia",
+    "dateBirth" : [ 1961, 8, 1 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 503482,
+  "isbn" : "0906373530",
+  "title" : "Dying of the Light",
+  "publisher" : "Sidgwick & Jackson",
+  "publishDate" : "1972-04-11",
+  "authors" : [ {
+    "id" : 5016577,
+    "name" : "Lena Hintz",
+    "country" : "Serbia",
+    "dateBirth" : [ 1992, 6, 10 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 55,
+    "name" : "Mrs. Miguel Crist",
+    "country" : "Saint Barthelemy",
+    "dateBirth" : [ 1979, 1, 24 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 84,
+  "isbn" : "098988869X",
+  "title" : "The Skull Beneath the Skin",
+  "publisher" : "Fairview Press",
+  "publishDate" : "1984-11-10",
+  "authors" : [ {
+    "id" : 424,
+    "name" : "Johnsie Keeling",
+    "country" : "Martinique",
+    "dateBirth" : [ 1990, 12, 20 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 75605,
+    "name" : "Warner Bergnaum DVM",
+    "country" : "Pakistan",
+    "dateBirth" : [ 1966, 5, 19 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 371691,
+  "isbn" : "1752251431",
+  "title" : "The House of Mirth",
+  "publisher" : "Marshall Pickering",
+  "publishDate" : "1987-09-09",
+  "authors" : [ {
+    "id" : 5301574,
+    "name" : "Omega Bogan",
+    "country" : "Faroe Islands",
+    "dateBirth" : [ 1974, 5, 11 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 752,
+    "name" : "Geraldo Deckow",
+    "country" : "Monaco",
+    "dateBirth" : [ 1994, 10, 17 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 90210,
+  "isbn" : "1923534300",
+  "title" : "Quo Vadis",
+  "publisher" : "Belknap Press",
+  "publishDate" : "1996-02-12",
+  "authors" : [ {
+    "id" : 92056,
+    "name" : "Daryl Reichert",
+    "country" : "Bermuda",
+    "dateBirth" : [ 1979, 12, 4 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 775,
+    "name" : "Sherice Langosh III",
+    "country" : "Macedonia",
+    "dateBirth" : [ 1975, 6, 28 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 133149,
+  "isbn" : "0650678494",
+  "title" : "The Yellow Meads of Asphodel",
+  "publisher" : "Kensington Books",
+  "publishDate" : "2004-10-29",
+  "authors" : [ {
+    "id" : 6,
+    "name" : "Bernie Wintheiser",
+    "country" : "Mongolia",
+    "dateBirth" : [ 1996, 6, 2 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 549,
+    "name" : "Weston Marks IV",
+    "country" : "Mayotte",
+    "dateBirth" : [ 1986, 11, 18 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 98,
+  "isbn" : "0343123703",
+  "title" : "In Dubious Battle",
+  "publisher" : "Blue Ribbon Books",
+  "publishDate" : "1990-01-27",
+  "authors" : [ {
+    "id" : 3,
+    "name" : "Loise White",
+    "country" : "Pitcairn Islands",
+    "dateBirth" : [ 1968, 7, 6 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 12753,
+    "name" : "Charley Hahn",
+    "country" : "Falkland Islands (Malvinas)",
+    "dateBirth" : [ 1961, 6, 5 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 7,
+  "isbn" : "1934813958",
+  "title" : "Surprised by Joy",
+  "publisher" : "Reed Elsevier",
+  "publishDate" : "1973-06-08",
+  "authors" : [ {
+    "id" : 411,
+    "name" : "Timmy Hudson",
+    "country" : "Sri Lanka",
+    "dateBirth" : [ 1997, 2, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 215850,
+    "name" : "Bradford O'Hara",
+    "country" : "Israel",
+    "dateBirth" : [ 1978, 5, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 165,
+  "isbn" : "1760148423",
+  "title" : "Cabbages and Kings",
+  "publisher" : "Hodder Headline",
+  "publishDate" : "1991-06-13",
+  "authors" : [ {
+    "id" : 1,
+    "name" : "Lyle Berge",
+    "country" : "Sierra Leone",
+    "dateBirth" : [ 1959, 10, 10 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 1,
+    "name" : "Clifton Welch",
+    "country" : "San Marino",
+    "dateBirth" : [ 2002, 9, 23 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 666576938,
+  "isbn" : "0870090518",
+  "title" : "Some Buried Caesar",
+  "publisher" : "FabJob",
+  "publishDate" : "1988-01-08",
+  "authors" : [ {
+    "id" : 706312535,
+    "name" : "Mr. Vickey Bartell",
+    "country" : "Marshall Islands",
+    "dateBirth" : [ 2001, 9, 13 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 549,
+    "name" : "Carmella Streich",
+    "country" : "Mexico",
+    "dateBirth" : [ 1998, 4, 17 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 7731751,
+  "isbn" : "0977470733",
+  "title" : "Everything is Illuminated",
+  "publisher" : "Kogan Page",
+  "publishDate" : "1976-06-06",
+  "authors" : [ {
+    "id" : 7,
+    "name" : "Latia Johnson Sr.",
+    "country" : "Netherlands Antilles",
+    "dateBirth" : [ 1995, 3, 11 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 4599415,
+    "name" : "Kennith Bauch",
+    "country" : "China",
+    "dateBirth" : [ 1962, 1, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 6,
+  "isbn" : "0872306437",
+  "title" : "Tiger! Tiger!",
+  "publisher" : "Kodansha",
+  "publishDate" : "2004-09-26",
+  "authors" : [ {
+    "id" : 29492584,
+    "name" : "Jack Grimes",
+    "country" : "Burundi",
+    "dateBirth" : [ 1987, 10, 18 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6392837,
+    "name" : "Armando Leffler",
+    "country" : "Micronesia",
+    "dateBirth" : [ 1999, 8, 9 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 662202,
+  "isbn" : "1886206511",
+  "title" : "East of Eden",
+  "publisher" : "Scholastic Press",
+  "publishDate" : "2005-09-09",
+  "authors" : [ {
+    "id" : 526167452,
+    "name" : "Tama Hessel PhD",
+    "country" : "Thailand",
+    "dateBirth" : [ 2005, 5, 28 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 4312334,
+    "name" : "Ma Breitenberg",
+    "country" : "Latvia",
+    "dateBirth" : [ 2004, 8, 18 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 43120,
+  "isbn" : "1677169559",
+  "title" : "Fear and Trembling",
+  "publisher" : "Papadakis Publisher",
+  "publishDate" : "2000-04-01",
+  "authors" : [ {
+    "id" : 2568,
+    "name" : "Shane Schmeler",
+    "country" : "Russian Federation",
+    "dateBirth" : [ 1983, 5, 26 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 9895647,
+    "name" : "Miss Su Kunde",
+    "country" : "Bulgaria",
+    "dateBirth" : [ 2005, 10, 6 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 20,
+  "isbn" : "0059832665",
+  "title" : "Endless Night",
+  "publisher" : "Charles Scribner's Sons",
+  "publishDate" : "1978-02-26",
+  "authors" : [ {
+    "id" : 6,
+    "name" : "Babara Turcotte",
+    "country" : "Svalbard & Jan Mayen Islands",
+    "dateBirth" : [ 1989, 10, 19 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 3,
+    "name" : "Arnold Jaskolski",
+    "country" : "Bosnia and Herzegovina",
+    "dateBirth" : [ 1977, 5, 19 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 5406667,
+  "isbn" : "075112818X",
+  "title" : "East of Eden",
+  "publisher" : "Manchester University Press",
+  "publishDate" : "1977-12-12",
+  "authors" : [ {
+    "id" : 97977,
+    "name" : "Clayton Rowe",
+    "country" : "Estonia",
+    "dateBirth" : [ 1968, 7, 17 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 720,
+    "name" : "Mertie Barrows",
+    "country" : "Lebanon",
+    "dateBirth" : [ 1992, 9, 28 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 972,
+  "isbn" : "1956726101",
+  "title" : "The Way of All Flesh",
+  "publisher" : "Mapin Publishing",
+  "publishDate" : "1964-10-24",
+  "authors" : [ {
+    "id" : 221,
+    "name" : "Leo Cartwright",
+    "country" : "Central African Republic",
+    "dateBirth" : [ 1991, 6, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 5400,
+    "name" : "Nicolas Lebsack",
+    "country" : "Nicaragua",
+    "dateBirth" : [ 1967, 7, 24 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 393,
+  "isbn" : "0904828646",
+  "title" : "I Will Fear No Evil",
+  "publisher" : "Del Rey Books",
+  "publishDate" : "1967-10-29",
+  "authors" : [ {
+    "id" : 960513825,
+    "name" : "Dawne Feeney",
+    "country" : "Liechtenstein",
+    "dateBirth" : [ 1987, 6, 25 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 27799,
+    "name" : "Jefferson Blanda",
+    "country" : "United States of America",
+    "dateBirth" : [ 1980, 4, 2 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 871,
+  "isbn" : "1621390144",
+  "title" : "To Say Nothing of the Dog",
+  "publisher" : "Da Capo Press",
+  "publishDate" : "1977-01-27",
+  "authors" : [ {
+    "id" : 61,
+    "name" : "Irving Collins",
+    "country" : "Georgia",
+    "dateBirth" : [ 1997, 9, 26 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 43021121,
+    "name" : "Joni Roberts",
+    "country" : "Kuwait",
+    "dateBirth" : [ 1978, 2, 22 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 51588315,
+  "isbn" : "0961723785",
+  "title" : "Where Angels Fear to Tread",
+  "publisher" : "University of Alaska Press",
+  "publishDate" : "1960-07-01",
+  "authors" : [ {
+    "id" : 9678253,
+    "name" : "Marta Wolf",
+    "country" : "Kuwait",
+    "dateBirth" : [ 1966, 5, 20 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 31,
+    "name" : "Sheridan Beier DVM",
+    "country" : "Tuvalu",
+    "dateBirth" : [ 1998, 2, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 947,
+  "isbn" : "0364890231",
+  "title" : "Down to a Sunless Sea",
+  "publisher" : "Harvill Press at Random House",
+  "publishDate" : "1973-06-10",
+  "authors" : [ {
+    "id" : 8,
+    "name" : "Ms. Petra Powlowski",
+    "country" : "Saint Martin",
+    "dateBirth" : [ 1997, 7, 3 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 7153095,
+    "name" : "Rex McKenzie",
+    "country" : "Guadeloupe",
+    "dateBirth" : [ 1983, 1, 6 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 410737491,
+  "isbn" : "1571784373",
+  "title" : "The Waste Land",
+  "publisher" : "E. P. Dutton",
+  "publishDate" : "1995-03-10",
+  "authors" : [ {
+    "id" : 11095,
+    "name" : "Erasmo Stroman",
+    "country" : "Lebanon",
+    "dateBirth" : [ 1979, 1, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 3610210,
+    "name" : "Aurelio Tillman",
+    "country" : "Azerbaijan",
+    "dateBirth" : [ 1987, 10, 18 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 7,
+  "isbn" : "0993481825",
+  "title" : "Vanity Fair",
+  "publisher" : "Churchill Livingstone",
+  "publishDate" : "2003-08-28",
+  "authors" : [ {
+    "id" : 432,
+    "name" : "Shirley Stoltenberg",
+    "country" : "Guatemala",
+    "dateBirth" : [ 1972, 5, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 50,
+    "name" : "Keven Rodriguez DVM",
+    "country" : "Macao",
+    "dateBirth" : [ 1974, 11, 2 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 735696298,
+  "isbn" : "1606511661",
+  "title" : "The Far-Distant Oxus",
+  "publisher" : "Library of America",
+  "publishDate" : "1962-03-31",
+  "authors" : [ {
+    "id" : 82,
+    "name" : "Carin Denesik",
+    "country" : "Slovenia",
+    "dateBirth" : [ 1990, 11, 25 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 0,
+    "name" : "Jim Little",
+    "country" : "Cambodia",
+    "dateBirth" : [ 1978, 3, 4 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 35,
+  "isbn" : "1091186871",
+  "title" : "The Far-Distant Oxus",
+  "publisher" : "University of Nebraska Press",
+  "publishDate" : "1961-12-20",
+  "authors" : [ {
+    "id" : 7701999,
+    "name" : "Karoline Kling",
+    "country" : "Greece",
+    "dateBirth" : [ 2004, 8, 27 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 858680922,
+    "name" : "Gayle Williamson",
+    "country" : "Isle of Man",
+    "dateBirth" : [ 1993, 8, 23 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 80688917,
+  "isbn" : "0788774506",
+  "title" : "Antic Hay",
+  "publisher" : "Koren Publishers Jerusalem",
+  "publishDate" : "2001-07-05",
+  "authors" : [ {
+    "id" : 3769,
+    "name" : "Nickolas Green IV",
+    "country" : "Armenia",
+    "dateBirth" : [ 1995, 8, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 62,
+    "name" : "Marlena Stracke",
+    "country" : "Iran",
+    "dateBirth" : [ 1984, 5, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 25,
+  "isbn" : "1708824510",
+  "title" : "Mother Night",
+  "publisher" : "Viking Press",
+  "publishDate" : "1966-09-19",
+  "authors" : [ {
+    "id" : 91,
+    "name" : "Teddy Little",
+    "country" : "Tunisia",
+    "dateBirth" : [ 1985, 7, 27 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 9,
+    "name" : "Shiela Treutel",
+    "country" : "Czech Republic",
+    "dateBirth" : [ 1985, 3, 3 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 8666649,
+  "isbn" : "1719932638",
+  "title" : "Blood's a Rover",
+  "publisher" : "Cengage Learning",
+  "publishDate" : "2005-02-23",
+  "authors" : [ {
+    "id" : 275,
+    "name" : "Sherril Yundt Sr.",
+    "country" : "Malawi",
+    "dateBirth" : [ 1983, 1, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 316310,
+    "name" : "Benedict Bashirian",
+    "country" : "Guam",
+    "dateBirth" : [ 1967, 10, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 909468252,
+  "isbn" : "0534579442",
+  "title" : "I Know Why the Caged Bird Sings",
+  "publisher" : "University of Nebraska Press",
+  "publishDate" : "1977-09-10",
+  "authors" : [ {
+    "id" : 57748,
+    "name" : "Chester Swaniawski",
+    "country" : "Republic of Korea",
+    "dateBirth" : [ 1962, 10, 19 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 653587441,
+    "name" : "Jamaal Kuhn",
+    "country" : "Zimbabwe",
+    "dateBirth" : [ 1962, 3, 1 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 0,
+  "isbn" : "0887117430",
+  "title" : "Let Us Now Praise Famous Men",
+  "publisher" : "Butterworth-Heinemann",
+  "publishDate" : "1966-10-12",
+  "authors" : [ {
+    "id" : 2903653,
+    "name" : "Lynelle Bailey",
+    "country" : "Myanmar",
+    "dateBirth" : [ 2004, 7, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 13,
+    "name" : "Terrence Stiedemann",
+    "country" : "Eritrea",
+    "dateBirth" : [ 1972, 5, 14 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 6167,
+  "isbn" : "0546810144",
+  "title" : "The Golden Bowl",
+  "publisher" : "Martinus Nijhoff Publishers",
+  "publishDate" : "1987-11-08",
+  "authors" : [ {
+    "id" : 5,
+    "name" : "Mr. Lyman Blanda",
+    "country" : "Malta",
+    "dateBirth" : [ 1984, 12, 26 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 122725109,
+    "name" : "Tia Denesik MD",
+    "country" : "British Indian Ocean Territory (Chagos Archipelago)",
+    "dateBirth" : [ 1989, 10, 1 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 168495,
+  "isbn" : "087566086X",
+  "title" : "Recalled to Life",
+  "publisher" : "Hay House",
+  "publishDate" : "1967-11-17",
+  "authors" : [ {
+    "id" : 1319,
+    "name" : "Levi Hammes",
+    "country" : "Guam",
+    "dateBirth" : [ 1988, 5, 9 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 44831698,
+    "name" : "Lourdes Bernhard",
+    "country" : "French Southern Territories",
+    "dateBirth" : [ 1984, 6, 7 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 39,
+  "isbn" : "1973136457",
+  "title" : "No Highway",
+  "publisher" : "Libertas Academica",
+  "publishDate" : "1994-03-11",
+  "authors" : [ {
+    "id" : 7,
+    "name" : "Lyman Lubowitz",
+    "country" : "Japan",
+    "dateBirth" : [ 1967, 9, 13 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 27421511,
+    "name" : "Erich Howell",
+    "country" : "Malta",
+    "dateBirth" : [ 1990, 10, 15 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2988647,
+  "isbn" : "0947294759",
+  "title" : "The Wings of the Dove",
+  "publisher" : "John Blake Publishing",
+  "publishDate" : "2001-05-24",
+  "authors" : [ {
+    "id" : 4413495,
+    "name" : "Michel Sawayn",
+    "country" : "Tanzania",
+    "dateBirth" : [ 1992, 11, 11 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 15204,
+    "name" : "Miss Gordon Macejkovic",
+    "country" : "United Arab Emirates",
+    "dateBirth" : [ 1979, 10, 26 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 84735,
+  "isbn" : "1499018320",
+  "title" : "The Cricket on the Hearth",
+  "publisher" : "Mandrake Press",
+  "publishDate" : "1976-07-22",
+  "authors" : [ {
+    "id" : 1854440,
+    "name" : "Earline Beier",
+    "country" : "Venezuela",
+    "dateBirth" : [ 1978, 9, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 227,
+    "name" : "Margherita Walker",
+    "country" : "Togo",
+    "dateBirth" : [ 1977, 2, 21 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 3386,
+  "isbn" : "1879942550",
+  "title" : "A Handful of Dust",
+  "publisher" : "Lethe Press",
+  "publishDate" : "1996-01-05",
+  "authors" : [ {
+    "id" : 778,
+    "name" : "Julienne Johnston",
+    "country" : "Afghanistan",
+    "dateBirth" : [ 1975, 6, 16 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6306198,
+    "name" : "Johana Feeney",
+    "country" : "Senegal",
+    "dateBirth" : [ 1998, 8, 10 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 6906,
+  "isbn" : "1941353274",
+  "title" : "Consider the Lilies",
+  "publisher" : "McFarland & Company",
+  "publishDate" : "1970-07-05",
+  "authors" : [ {
+    "id" : 29490,
+    "name" : "Luanna Schiller",
+    "country" : "Wallis and Futuna",
+    "dateBirth" : [ 1967, 9, 16 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 6140,
+    "name" : "Chad Klein",
+    "country" : "Portugal",
+    "dateBirth" : [ 1964, 7, 30 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 55681,
+  "isbn" : "1075431344",
+  "title" : "A Time to Kill",
+  "publisher" : "Elsevier",
+  "publishDate" : "1994-11-20",
+  "authors" : [ {
+    "id" : 9684,
+    "name" : "Rico Ankunding",
+    "country" : "Greece",
+    "dateBirth" : [ 2003, 3, 30 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 17583,
+    "name" : "Cherry Volkman",
+    "country" : "Haiti",
+    "dateBirth" : [ 2004, 8, 2 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 9,
+  "isbn" : "0016719069",
+  "title" : "Jesting Pilate",
+  "publisher" : "HarperCollins",
+  "publishDate" : "1974-06-21",
+  "authors" : [ {
+    "id" : 998,
+    "name" : "Ms. Linwood Smith",
+    "country" : "Bermuda",
+    "dateBirth" : [ 1984, 1, 29 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 57474,
+    "name" : "Kenneth Funk",
+    "country" : "Kyrgyz Republic",
+    "dateBirth" : [ 1966, 6, 3 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 825552268,
+  "isbn" : "0703474316",
+  "title" : "The Millstone",
+  "publisher" : "BBC Books",
+  "publishDate" : "1966-09-02",
+  "authors" : [ {
+    "id" : 842663370,
+    "name" : "Oren Kiehn MD",
+    "country" : "Eritrea",
+    "dateBirth" : [ 1983, 10, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 9431600,
+    "name" : "Mr. Eric Altenwerth",
+    "country" : "Japan",
+    "dateBirth" : [ 1964, 9, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 2433750,
+  "isbn" : "1969734493",
+  "title" : "A Confederacy of Dunces",
+  "publisher" : "University of Akron Press",
+  "publishDate" : "1993-05-14",
+  "authors" : [ {
+    "id" : 5328,
+    "name" : "Darron Feest",
+    "country" : "Madagascar",
+    "dateBirth" : [ 1984, 9, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 669,
+    "name" : "Tyree Klein",
+    "country" : "Timor-Leste",
+    "dateBirth" : [ 1977, 5, 10 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 14,
+  "isbn" : "1869636961",
+  "title" : "The Needle's Eye",
+  "publisher" : "Schocken Books",
+  "publishDate" : "1977-05-19",
+  "authors" : [ {
+    "id" : 606,
+    "name" : "Jerome Bayer",
+    "country" : "Sudan",
+    "dateBirth" : [ 1967, 8, 8 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 4708,
+    "name" : "Lyndon Gutkowski",
+    "country" : "Saint Helena",
+    "dateBirth" : [ 1997, 8, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 7,
+  "isbn" : "094939162X",
+  "title" : "Mr Standfast",
+  "publisher" : "Faber and Faber",
+  "publishDate" : "1964-12-13",
+  "authors" : [ {
+    "id" : 83,
+    "name" : "Kandis Crist",
+    "country" : "Puerto Rico",
+    "dateBirth" : [ 2003, 10, 7 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 7,
+    "name" : "Dr. Jody Heidenreich",
+    "country" : "Monaco",
+    "dateBirth" : [ 1997, 10, 22 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 399195488,
+  "isbn" : "0475104129",
+  "title" : "In a Glass Darkly",
+  "publisher" : "Eerdmans Publishing",
+  "publishDate" : "1999-04-08",
+  "authors" : [ {
+    "id" : 848703,
+    "name" : "Dr. Damian Koss",
+    "country" : "Kyrgyz Republic",
+    "dateBirth" : [ 1960, 2, 25 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 79208866,
+    "name" : "Trey Pagac",
+    "country" : "New Caledonia",
+    "dateBirth" : [ 2004, 2, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 10,
+  "isbn" : "1529452724",
+  "title" : "By Grand Central Station I Sat Down and Wept",
+  "publisher" : "Voyager Books",
+  "publishDate" : "2005-09-02",
+  "authors" : [ {
+    "id" : 3,
+    "name" : "Dr. Ty Kuphal",
+    "country" : "French Polynesia",
+    "dateBirth" : [ 1992, 8, 4 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 20249252,
+    "name" : "Matha Rempel",
+    "country" : "Tajikistan",
+    "dateBirth" : [ 1991, 4, 9 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 400,
+  "isbn" : "0809227525",
+  "title" : "Of Mice and Men",
+  "publisher" : "Reed Publishing",
+  "publishDate" : "1995-03-16",
+  "authors" : [ {
+    "id" : 49589,
+    "name" : "Gabriel Pfeffer",
+    "country" : "Albania",
+    "dateBirth" : [ 1971, 12, 7 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 3,
+    "name" : "Mrs. Omer Swift",
+    "country" : "Ethiopia",
+    "dateBirth" : [ 1992, 10, 5 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 811144,
+  "isbn" : "0033806365",
+  "title" : "That Hideous Strength",
+  "publisher" : "Hay House",
+  "publishDate" : "1963-12-08",
+  "authors" : [ {
+    "id" : 7,
+    "name" : "Myriam Stracke",
+    "country" : "Saint Vincent and the Grenadines",
+    "dateBirth" : [ 1962, 6, 5 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 868,
+    "name" : "Sherise Osinski",
+    "country" : "Cape Verde",
+    "dateBirth" : [ 1976, 9, 11 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 5531,
+  "isbn" : "0899274153",
+  "title" : "A Swiftly Tilting Planet",
+  "publisher" : "Harry N. Abrams, Inc.",
+  "publishDate" : "1961-09-13",
+  "authors" : [ {
+    "id" : 71839947,
+    "name" : "Miss Guillermo Green",
+    "country" : "Bhutan",
+    "dateBirth" : [ 1959, 12, 4 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 28790012,
+    "name" : "Quinn Thiel",
+    "country" : "Bangladesh",
+    "dateBirth" : [ 1976, 12, 16 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 990605326,
+  "isbn" : "1955717354",
+  "title" : "Fair Stood the Wind for France",
+  "publisher" : "Harper & Row",
+  "publishDate" : "1969-12-27",
+  "authors" : [ {
+    "id" : 9329,
+    "name" : "Dave Wehner",
+    "country" : "Canada",
+    "dateBirth" : [ 2004, 3, 24 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 96010,
+    "name" : "Brandy Walter",
+    "country" : "Ethiopia",
+    "dateBirth" : [ 1968, 7, 1 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 24,
+  "isbn" : "1904270794",
+  "title" : "Little Hands Clapping",
+  "publisher" : "Nauka",
+  "publishDate" : "1986-01-13",
+  "authors" : [ {
+    "id" : 9146,
+    "name" : "Amiee O'Reilly",
+    "country" : "Guatemala",
+    "dateBirth" : [ 2003, 6, 30 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 380834,
+    "name" : "Catalina Gaylord",
+    "country" : "Syrian Arab Republic",
+    "dateBirth" : [ 1967, 12, 25 ],
+    "bookSet" : [ ]
+  } ]
+},
+{
+  "id" : 273481212,
+  "isbn" : "1737029162",
+  "title" : "This Lime Tree Bower",
+  "publisher" : "Jarrolds Publishing",
+  "publishDate" : "1995-02-25",
+  "authors" : [ {
+    "id" : 502,
+    "name" : "Dr. Tuan Pagac",
+    "country" : "Trinidad and Tobago",
+    "dateBirth" : [ 1998, 9, 23 ],
+    "bookSet" : [ ]
+  }, {
+    "id" : 36070,
+    "name" : "Gus Yundt",
+    "country" : "Congo",
+    "dateBirth" : [ 1994, 3, 19 ],
+    "bookSet" : [ ]
+  } ]
+}
+[

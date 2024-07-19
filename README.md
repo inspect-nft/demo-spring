@@ -22,8 +22,13 @@ Please note that no fancy UI front-end is needed, and back-end API functionality
 - src/test/*
 
 ### Request Data:
+Please use the utility for generating 100 random json model data (run AuthorJsonGenerator and BookJsonGenerator classes)
+to generate random input data), under  `src/test/java/demo/library/jsonGeneratorUtil` path.
+You could see the already generated Author and Book json models in the created json files (GeneratedAuthValues.json and
+GeneratedBookValues.json).
+Please note that in each rerun for Author and Book generator classes, it creates new values.
 You could use additional request json objects based on your need for this task:
-
+ 
 ##### Author
 ```json
 {
